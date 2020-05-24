@@ -3,6 +3,7 @@ class a {
         int a = 0;
         System.out.println();
         System.out.println("New variable: " + a);
+        System.out.println("git diff");
     }
 
 }
